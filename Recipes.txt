@@ -2,3 +2,4 @@ Recipes file
 
 Recipe 1
 Recipe 2
+Recipe 3
